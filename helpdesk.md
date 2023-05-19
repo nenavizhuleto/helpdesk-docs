@@ -1,4 +1,6 @@
 
+## ---> [[board|Task Tracker]] <---
+
 ## Связанные заметки
 
 - [[brainstorm|Идеи]]
