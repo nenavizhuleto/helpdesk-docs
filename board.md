@@ -1,24 +1,20 @@
----
+# Tasks
 
-kanban-plugin: basic
+# Planned
 
----
+- [ ] -
+- [ ] -
+- [ ] -
 
-## TODO
+# In Progress
 
-- [ ] какая то нужная задача
+- [ ] -
+- [ ] -
+- [ ] -
 
+# Completed
 
-## COMPLETED
+- [ ] -
+- [ ] -
+- [ ] -
 
-**Complete**
-- [x] анализ систем обработки обращений
-
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic","new-note-folder":"tasks"}
-```
-%%
